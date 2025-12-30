@@ -165,3 +165,13 @@ pip install -r requirements.txt
 2. Open Jupyter Notebook and run:
  - 01_Data_Cleaning.ipynb
  - 02_Data_Analysis.ipynb
+
+---
+
+## 🧑‍💻 Author
+
+**👤 Harsh Belekar**  
+📍 Data Analyst | Python Developer | SQL | Power BI | Excel | Data Visualization  
+📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗[GitHub](https://github.com/Harsh-Belekar)
+
+📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
